@@ -1,4 +1,6 @@
---platform=linux/amd64 tomcat:9.0.93
+--platform=linux/amd64 zabbix/zabbix-server-mysql:alpine-7.0-latest
+--platform=linux/amd64 zabbix/zabbix-proxy-mysql:alpine-7.0-latest
+--platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

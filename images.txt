@@ -3,7 +3,8 @@
 #zabbix/zabbix-server-mysql:alpine-7.0-latest
 #zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
 #docker.io/apache/dubbo-admin
-xuxueli/xxl-job-admin:2.3.0
+#xuxueli/xxl-job-admin:2.3.0
+flyway/flyway
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
